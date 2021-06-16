@@ -1,14 +1,16 @@
 import './index.css';
 
-import { TextAnnotator, TokenAnnotator } from "react-text-annotate";
+import { TokenAnnotator } from "react-text-annotate";
 
 import React from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
 import reportWebVitals from './reportWebVitals';
 
-const TEXT =
-  "When Sebastian Thrun started working on self-driving cars at Google in 2007, few people outside of the company took him seriously. “I can tell you very senior CEOs of major American car companies would shake my hand and turn away because I wasn’t worth talking to,” said Thrun, now the co-founder and CEO of online higher education startup Udacity, in an interview with Recode earlier this week. A little less than a decade later, dozens of self-driving startups have cropped up while automakers around the world clamor, wallet in hand, to secure their place in the fast-moving world of fully automated transportation.";
+const BASE_URL = "https://meta-analysis-api.herokuapp.com/"
+const API_URL = "api/annotate-article/"
+const UPDATE_URL = "api/articles/"
+
 const TAG_COLORS = {
   PATHWAY: "#84d2ff"
 };
@@ -31,21 +33,16 @@ class App extends React.Component {
     value: [],
     tag: "PATHWAY",
     articles: [],
-    articleNum: 0
+    articleNum: 0,
+    page: 1,
   };
 
   async componentDidMount() {
-    const response = await axios.get(`http://localhost:8000/api/articles/`);
+    const response = await axios.get(BASE_URL + API_URL);
     const json = await response.data.results;
-    this.setState({ articles: json });
+    this.setState({ articles: json }, () => console.log(json));
   }
   handleChange = newValue => {
-    console.log(newValue)
-    const lastItem = newValue[newValue.length - 1];
-    if(lastItem){
-      lastItem.articleNum = this.state.articleNum;
-      delete lastItem.color;
-    }
     this.setState({ value: newValue });
   };
 
@@ -53,37 +50,67 @@ class App extends React.Component {
     this.setState({ tag: e.target.value });
   };
 
-  onclick(type){
-    this.setState(prevState => {
-       return {articleNum: type == 'add' ? prevState.articleNum + 1: prevState.articleNum - 1}
-    });
-}
+  async onclick(type){
+    const article = this.state.articles[this.state.articleNum];
+
+    const url = BASE_URL + UPDATE_URL + article.id + '/'
+
+    for(var val in this.state.value){
+      delete val.color
+    }
+
+    var a = {
+      name: article.name,
+      pub_date: article.pub_date,
+      annotations: this.state.value
+    }
+
+    fetch(url,
+      {
+          method: 'PATCH',
+          headers: {
+              'Content-Type': 'application/json',
+              'Accept' : 'application/json',
+          
+              // Other possible headers
+          },
+          body: JSON.stringify(a)
+
+      })
+      .then(async () => {
+        const response = await axios.get(BASE_URL + API_URL);
+        const json = await response.data.results;
+        this.setState({ articles: json, articleNum: this.state.articleNum + 1, value: [] }, window.location.reload());
+      });
+
+  };
 
   render() {
     return (
       <div style={{ padding: 24, fontFamily: "IBM Plex Sans" }}>
         <h1>Annotation Tool</h1>
-        <div style={{ display: "flex"}}>
-          <Card>
+        <h2>{this.state.articleNum}</h2>
+        <h2>{this.state.page}</h2>
+        <div style={{ display: "flex"}} key={this.state.articleNum}>
+          <Card key={this.state.articleNum}>
             <div style={{ display: "flex" }}>
               <div style={{ flex: "80%", display: "flex", flexDirection: "column"}}>
                 <p><b>Title:</b> {this.state.articles[this.state.articleNum]?.name}</p>
                 <p><b>Doi:</b> {this.state.articles[this.state.articleNum]?.doi}</p>
               </div>
               <div style={{ flex: "20%", display: "flex", justifyContent: "flex-end"}}>
-                <input disabled={this.state.articleNum === 0} type='button' onClick={this.onclick.bind(this, 'sub')} value={String.fromCharCode(8592)} style={{height: '50px', width: '50px'}}/>
-                <input disabled={this.state.articleNum === 99} type='button' onClick={this.onclick.bind(this, 'add')} value={String.fromCharCode(8594)} style={{height: '50px', width: '50px'}}/>
+                <input type='button' onClick={this.onclick.bind(this, 'add')} value="Save" style={{height: '50px', width: '50px'}}/>
               </div>
             </div>
             <select onChange={this.handleTagChange} value={this.state.tag}>
               <option value="PERSON">PATHWAY</option>
             </select>
             
-            {this.state.articles.length > 0 ? (this.state.articles[this.state.articleNum].abstract_text ? (<TokenAnnotator
+            {this.state.articles.length > 0 ? (this.state.articles[this.state.articleNum]?.abstract_text ? (<TokenAnnotator
             style={{
               lineHeight: 2
             }}
-            tokens={this.state.articles[this.state.articleNum].abstract_text.split(" ")}
+            tokens={this.state.articles[this.state.articleNum]?.abstract_text.split(" ")}
             value={this.state.value}
             onChange={this.handleChange}
             getSpan={span => ({
@@ -91,7 +118,7 @@ class App extends React.Component {
               tag: this.state.tag,
               color: TAG_COLORS[this.state.tag]
             })}
-            renderMark={props => props.articleNum === this.state.articleNum && (
+            renderMark={props => 
               <mark
                 key={props.key}
                 onClick={() =>
@@ -99,7 +126,7 @@ class App extends React.Component {
                     start: props.start,
                     end: props.end,
                     text: props.text,
-                    tag: props.tag,
+                    tag: props.tag
                   })
                 }
                 style={{
@@ -132,13 +159,13 @@ class App extends React.Component {
                   {props.tag}
                 </span>
               </mark>
-            )}
+            }
           />) : (<h4>There is no abstract text of this article</h4>)) : (<h4>There is no article</h4>)}
                        
           </Card>
           <Card>
             <h4>Current Value</h4>
-            <pre>{JSON.stringify(this.state.value.filter(v => v.articleNum === this.state.articleNum), null, 2)}</pre>
+            <pre>{JSON.stringify(this.state.value, null, 2)}</pre>
           </Card>
         </div>
       </div>
