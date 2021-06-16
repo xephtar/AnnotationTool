@@ -89,8 +89,6 @@ class App extends React.Component {
     return (
       <div style={{ padding: 24, fontFamily: "IBM Plex Sans" }}>
         <h1>Annotation Tool</h1>
-        <h2>{this.state.articleNum}</h2>
-        <h2>{this.state.page}</h2>
         <div style={{ display: "flex"}} key={this.state.articleNum}>
           <Card key={this.state.articleNum}>
             <div style={{ display: "flex" }}>
