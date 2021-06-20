@@ -97,7 +97,7 @@ class App extends React.Component {
       .then(async () => {
         const response = await axios.get(BASE_URL + API_URL);
         const json = await response.data.results;
-        this.setState({ articles: json, articleNum: this.state.articleNum + 1, value: [] }, window.location.reload);
+        this.setState({ articles: json, articleNum: this.state.articleNum + 1, value: [] }, window.location.reload());
       });
 
   };
