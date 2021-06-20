@@ -6,6 +6,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
 import reportWebVitals from './reportWebVitals';
+import Highlighter from "react-highlight-words";
 
 const BASE_URL = "https://meta-analysis-api.herokuapp.com/"
 const API_URL = "api/annotate-article/"
@@ -61,14 +62,9 @@ class App extends React.Component {
        }
     }
     )
-    .then(async (response) => { 
-      var res = await response.json();       
-      this.setState({ pathways: res});
-    }).then(() => {
-      this.state.pathways.forEach((e) => {
-        console.log(e.name);
-      })
-    })
+    .then((response) => { 
+      return response.json();
+    }).then((res) => this.setState({pathways: res}))
   }
 
   async onclick(type){
@@ -111,6 +107,25 @@ class App extends React.Component {
       <div style={{ padding: 24, fontFamily: "IBM Plex Sans" }}>
         <h1>Annotation Tool</h1>
         <div style={{ display: "flex"}} key={this.state.articleNum}>
+        <Card v-if={this.state.pathways.length > 0 && this.state.articles[this.state.articleNum]?.abstract_text}>
+            <h2>
+              Highlighted Pathway Names in Article
+            </h2>
+            <i>If article's abstract includes pathway from our pathway dictionary, It will be highlighted. 
+              You should annotate that highlighted part at middle section. 
+              If there is no highlighted word, You should search the abstract text to find pathway for annotation.
+            </i>
+            <br/>
+            <br/>
+            <Highlighter
+              style={{
+                lineHeight: "2",
+              }}
+              searchWords={this.state.pathways}
+              autoEscape={true}
+              textToHighlight={this.state.articles[this.state.articleNum]?.abstract_text}
+            />
+          </Card>
           <Card key={this.state.articleNum}>
             <div style={{ display: "flex" }}>
               <div style={{ flex: "80%", display: "flex", flexDirection: "column"}}>

@@ -1,1634 +1,1634 @@
 [
-	{
-		"name" : "Transport, mitochondrial"
-	},
-	{
-		"name" : "Transport, extracellular"
-	},
-	{
-		"name" : "Transport, lysosomal"
-	},
-	{
-		"name" : "Vitamin D metabolism"
-	},
-	{
-		"name" : "Transport, endoplasmic reticular"
-	},
-	{
-		"name" : "Beta-Alanine metabolism"
-	},
-	{
-		"name" : "Glycine, serine, alanine, and threonine metabolism"
-	},
-	{
-		"name" : "Methionine and cysteine metabolism"
-	},
-	{
-		"name" : "Lysine metabolism"
-	},
-	{
-		"name" : "Tryptophan metabolism"
-	},
-	{
-		"name" : "Tyrosine metabolism"
-	},
-	{
-		"name" : "Ubiquinone synthesis"
-	},
-	{
-		"name" : "Taurine and hypotaurine metabolism"
-	},
-	{
-		"name" : "Cytochrome metabolism"
-	},
-	{
-		"name" : "Steroid metabolism"
-	},
-	{
-		"name" : "Sphingolipid metabolism"
-	},
-	{
-		"name" : "O-glycan metabolism"
-	},
-	{
-		"name" : "Blood group synthesis"
-	},
-	{
-		"name" : "Glutamate metabolism"
-	},
-	{
-		"name" : "Valine, leucine, and isoleucine metabolism"
-	},
-	{
-		"name" : "Fatty acid oxidation"
-	},
-	{
-		"name" : "Transport, peroxisomal"
-	},
-	{
-		"name" : "Propanoate metabolism"
-	},
-	{
-		"name" : "Transport, golgi apparatus"
-	},
-	{
-		"name" : "Aminosugar metabolism"
-	},
-	{
-		"name" : "Transport, nuclear"
-	},
-	{
-		"name" : "Urea cycle"
-	},
-	{
-		"name" : "Citric acid cycle"
-	},
-	{
-		"name" : "Vitamin B2 metabolism"
-	},
-	{
-		"name" : "Nucleotide interconversion"
-	},
-	{
-		"name" : "Arginine and proline metabolism"
-	},
-	{
-		"name" : "Purine synthesis"
-	},
-	{
-		"name" : "Keratan sulfate synthesis"
-	},
-	{
-		"name" : "Alanine and aspartate metabolism"
-	},
-	{
-		"name" : "N-glycan degradation"
-	},
-	{
-		"name" : "Bile acid synthesis"
-	},
-	{
-		"name" : "Pyruvate metabolism"
-	},
-	{
-		"name" : "Glycolysis\/gluconeogenesis"
-	},
-	{
-		"name" : "Eicosanoid metabolism"
-	},
-	{
-		"name" : "Starch and sucrose metabolism"
-	},
-	{
-		"name" : "Biotin metabolism"
-	},
-	{
-		"name" : "Pentose phosphate pathway"
-	},
-	{
-		"name" : "R group synthesis"
-	},
-	{
-		"name" : "Miscellaneous"
-	},
-	{
-		"name" : "Vitamin C metabolism"
-	},
-	{
-		"name" : "Heme degradation"
-	},
-	{
-		"name" : "Butanoate metabolism"
-	},
-	{
-		"name" : "Cholesterol metabolism"
-	},
-	{
-		"name" : "ROS detoxification"
-	},
-	{
-		"name" : "Glycerophospholipid metabolism"
-	},
-	{
-		"name" : "Alkaloid synthesis"
-	},
-	{
-		"name" : "Chondroitin sulfate degradation"
-	},
-	{
-		"name" : "Pyrimidine catabolism"
-	},
-	{
-		"name" : "N-glycan synthesis"
-	},
-	{
-		"name" : "Fatty acid synthesis"
-	},
-	{
-		"name" : "Pyrimidine synthesis"
-	},
-	{
-		"name" : "Intracellular demand"
-	},
-	{
-		"name" : "Galactose metabolism"
-	},
-	{
-		"name" : "Heme synthesis"
-	},
-	{
-		"name" : "Fructose and mannose metabolism"
-	},
-	{
-		"name" : "Folate metabolism"
-	},
-	{
-		"name" : "Keratan sulfate degradation"
-	},
-	{
-		"name" : "Chondroitin synthesis"
-	},
-	{
-		"name" : "Glutathione metabolism"
-	},
-	{
-		"name" : "Hyaluronan metabolism"
-	},
-	{
-		"name" : "Heparan sulfate degradation"
-	},
-	{
-		"name" : "Glyoxylate and dicarboxylate metabolism"
-	},
-	{
-		"name" : "Triacylglycerol synthesis"
-	},
-	{
-		"name" : "Phosphatidylinositol phosphate metabolism"
-	},
-	{
-		"name" : "Histidine metabolism"
-	},
-	{
-		"name" : "Inositol phosphate metabolism"
-	},
-	{
-		"name" : "C5-branched dibasic acid metabolism"
-	},
-	{
-		"name" : "CoA catabolism"
-	},
-	{
-		"name" : "Vitamin A metabolism"
-	},
-	{
-		"name" : "NAD metabolism"
-	},
-	{
-		"name" : "Purine catabolism"
-	},
-	{
-		"name" : "Limonene and pinene degradation"
-	},
-	{
-		"name" : "Vitamin B6 metabolism"
-	},
-	{
-		"name" : "Phenylalanine metabolism"
-	},
-	{
-		"name" : "Oxidative phosphorylation"
-	},
-	{
-		"name" : "D-alanine metabolism"
-	},
-	{
-		"name" : "Tetrahydrobiopterin metabolism"
-	},
-	{
-		"name" : "Thiamine metabolism"
-	},
-	{
-		"name" : "Nucleotide sugar metabolism"
-	},
-	{
-		"name" : "CoA synthesis"
-	},
-	{
-		"name" : "Androgen and estrogen synthesis and metabolism"
-	},
-	{
-		"name" : "Glycosphingolipid metabolism"
-	},
-	{
-		"name" : "Linoleate metabolism"
-	},
-	{
-		"name" : "Arachidonic acid metabolism"
-	},
-	{
-		"name" : "Vitamin E metabolism"
-	},
-	{
-		"name" : "Biomass and maintenance functions"
-	},
-	{
-		"name" : "Intracellular source\/sink"
-	},
-	{
-		"name" : "Dietary fiber binding"
-	},
-	{
-		"name" : "Squalene and cholesterol synthesis"
-	},
-	{
-		"name" : "Exchange\/demand reaction"
-	},
-	{
-		"name" : "Hippurate metabolism"
-	},
-	{
-		"name" : "Peptide metabolism"
-	},
-	{
-		"name" : "Nucleotide salvage pathway"
-	},
-	{
-		"name" : "Leukotriene metabolism"
-	},
-	{
-		"name" : "Nucleotide metabolism"
-	},
-	{
-		"name" : "N-glycan metabolism"
-	},
-	{
-		"name" : "Drug metabolism"
-	},
-	{
-		"name" : "Protein formation"
-	},
-	{
-		"name" : "Vitamin B12 metabolism"
-	},
-	{
-		"name" : "Lipoate metabolism"
-	},
-	{
-		"name" : "nitrate reduction III (dissimilatory)"
-	},
-	{
-		"name" : "D-gluconate degradation"
-	},
-	{
-		"name" : "glycolate and glyoxylate degradation II"
-	},
-	{
-		"name" : "nitrate reduction IX (dissimilatory)"
-	},
-	{
-		"name" : "acetate conversion to acetyl-CoA"
-	},
-	{
-		"name" : "nitrate reduction VIIIb (dissimilatory)"
-	},
-	{
-		"name" : "enterobacterial common antigen biosynthesis"
-	},
-	{
-		"name" : "polymyxin resistance"
-	},
-	{
-		"name" : "xanthine and xanthosine salvage"
-	},
-	{
-		"name" : "adenine and adenosine salvage III"
-	},
-	{
-		"name" : "lipid IV<sub>A<\/sub> biosynthesis (E. coli)"
-	},
-	{
-		"name" : "adenine and adenosine salvage II"
-	},
-	{
-		"name" : "adenine and adenosine salvage V"
-	},
-	{
-		"name" : "superpathway of (Kdo)<SUB>2<\/SUB>-lipid A biosynthesis"
-	},
-	{
-		"name" : "pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis II"
-	},
-	{
-		"name" : "cadaverine biosynthesis"
-	},
-	{
-		"name" : "L-glutamate degradation IX (via 4-aminobutanoate)"
-	},
-	{
-		"name" : "adenosine deoxyribonucleotides <i>de novo<\/i> biosynthesis II"
-	},
-	{
-		"name" : "pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis I"
-	},
-	{
-		"name" : "arginine dependent acid resistance"
-	},
-	{
-		"name" : "autoinducer AI-2 degradation"
-	},
-	{
-		"name" : "glycogen degradation I"
-	},
-	{
-		"name" : "superoxide radicals degradation"
-	},
-	{
-		"name" : "guanosine deoxyribonucleotides <i>de novo<\/i> biosynthesis II"
-	},
-	{
-		"name" : "curcumin degradation"
-	},
-	{
-		"name" : "arsenate detoxification II (glutaredoxin)"
-	},
-	{
-		"name" : "guanine and guanosine salvage"
-	},
-	{
-		"name" : "superpathway of methylglyoxal degradation"
-	},
-	{
-		"name" : "2-methylcitrate cycle I"
-	},
-	{
-		"name" : "L-carnitine degradation I"
-	},
-	{
-		"name" : "methylglyoxal degradation I"
-	},
-	{
-		"name" : "oleate &beta;-oxidation"
-	},
-	{
-		"name" : "guanine and guanosine salvage III"
-	},
-	{
-		"name" : "methylglyoxal degradation IV"
-	},
-	{
-		"name" : "fatty acid &beta;-oxidation I (generic)"
-	},
-	{
-		"name" : "methylglyoxal degradation III"
-	},
-	{
-		"name" : "fructoselysine and psicoselysine degradation"
-	},
-	{
-		"name" : "NADH to trimethylamine <i>N<\/i>-oxide electron transfer"
-	},
-	{
-		"name" : "glycerol-3-phosphate to fumarate electron transfer"
-	},
-	{
-		"name" : "NADH to hydrogen peroxide electron transfer"
-	},
-	{
-		"name" : "hydrogen to fumarate electron transfer"
-	},
-	{
-		"name" : "heme <i>b<\/i> biosynthesis II (oxygen-independent)"
-	},
-	{
-		"name" : "NADH to fumarate electron transfer"
-	},
-	{
-		"name" : "heme <i>b<\/i> biosynthesis V (aerobic)"
-	},
-	{
-		"name" : "formate to nitrite electron transfer"
-	},
-	{
-		"name" : "D-galactonate degradation"
-	},
-	{
-		"name" : "superpathway of heme <i>b<\/i> biosynthesis from uroporphyrinogen-III"
-	},
-	{
-		"name" : "formate to dimethyl sulfoxide electron transfer"
-	},
-	{
-		"name" : "D-fructuronate degradation"
-	},
-	{
-		"name" : "cytochrome <i>c<\/i> biogenesis (system I type)"
-	},
-	{
-		"name" : "hydrogen to trimethylamine N-oxide electron transfer"
-	},
-	{
-		"name" : "ketogluconate metabolism"
-	},
-	{
-		"name" : "L-idonate degradation"
-	},
-	{
-		"name" : "NADH to dimethyl sulfoxide electron transfer"
-	},
-	{
-		"name" : "adenosylcobalamin salvage from cobalamin"
-	},
-	{
-		"name" : "formate to trimethylamine <i>N<\/i>-oxide electron transfer"
-	},
-	{
-		"name" : "L-galactonate degradation"
-	},
-	{
-		"name" : "conversion of succinate to propanoate"
-	},
-	{
-		"name" : "glycerol-3-phosphate to hydrogen peroxide electron transport"
-	},
-	{
-		"name" : "hydrogen to dimethyl sulfoxide electron transfer"
-	},
-	{
-		"name" : "glycolysis II (from fructose 6-phosphate)"
-	},
-	{
-		"name" : "4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis I"
-	},
-	{
-		"name" : "glycolysis I (from glucose 6-phosphate)"
-	},
-	{
-		"name" : "thiazole component of thiamine diphosphate biosynthesis I"
-	},
-	{
-		"name" : "pentose phosphate pathway (non-oxidative branch) I"
-	},
-	{
-		"name" : "hydroxymethylpyrimidine salvage"
-	},
-	{
-		"name" : "pentose phosphate pathway"
-	},
-	{
-		"name" : "di-<i>trans<\/i>,poly-<i>cis<\/i>-undecaprenyl phosphate biosynthesis"
-	},
-	{
-		"name" : "thiamine diphosphate salvage II"
-	},
-	{
-		"name" : "pentose phosphate pathway (oxidative branch) I"
-	},
-	{
-		"name" : "octaprenyl diphosphate biosynthesis"
-	},
-	{
-		"name" : "<i>trans, trans<\/i>-farnesyl diphosphate biosynthesis"
-	},
-	{
-		"name" : "thiamine diphosphate biosynthesis I (E. coli)"
-	},
-	{
-		"name" : "TCA cycle I (prokaryotic)"
-	},
-	{
-		"name" : "allantoin degradation to ureidoglycolate II (ammonia producing)"
-	},
-	{
-		"name" : "glyoxylate cycle"
-	},
-	{
-		"name" : "superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"
-	},
-	{
-		"name" : "sedoheptulose bisphosphate bypass"
-	},
-	{
-		"name" : "superpathway of glycolysis and the Entner-Doudoroff pathway"
-	},
-	{
-		"name" : "ATP biosynthesis"
-	},
-	{
-		"name" : "adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I"
-	},
-	{
-		"name" : "adenosylcobinamide-GDP salvage from cobinamide I"
-	},
-	{
-		"name" : "superpathway of adenosylcobalamin salvage from cobinamide I"
-	},
-	{
-		"name" : "L-lactaldehyde degradation (aerobic)"
-	},
-	{
-		"name" : "L-lactaldehyde degradation (anaerobic)"
-	},
-	{
-		"name" : "L-serine degradation"
-	},
-	{
-		"name" : "mixed acid fermentation"
-	},
-	{
-		"name" : "<i>N<\/i>-acetylglucosamine degradation I"
-	},
-	{
-		"name" : "Kdo transfer to lipid IV<sub>A<\/sub> I (E. coli)"
-	},
-	{
-		"name" : "sulfoquinovose degradation I"
-	},
-	{
-		"name" : "L-glutamine degradation I"
-	},
-	{
-		"name" : "acetate and ATP formation from acetyl-CoA I"
-	},
-	{
-		"name" : "L-lysine degradation I"
-	},
-	{
-		"name" : "mannitol degradation I"
-	},
-	{
-		"name" : "superpathway of hexitol degradation (bacteria)"
-	},
-	{
-		"name" : "proline degradation"
-	},
-	{
-		"name" : "galactitol degradation"
-	},
-	{
-		"name" : "glycerol degradation I"
-	},
-	{
-		"name" : "D-sorbitol degradation II"
-	},
-	{
-		"name" : "periplasmic disulfide bond reduction"
-	},
-	{
-		"name" : "L-tryptophan degradation II (via pyruvate)"
-	},
-	{
-		"name" : "N-end rule pathway I (prokaryotic)"
-	},
-	{
-		"name" : "anhydromuropeptides recycling I"
-	},
-	{
-		"name" : "periplasmic disulfide bond formation"
-	},
-	{
-		"name" : "lipoprotein posttranslational modification"
-	},
-	{
-		"name" : "D-galactarate degradation I"
-	},
-	{
-		"name" : "L-glutamate degradation II"
-	},
-	{
-		"name" : "superpathway of &beta;-D-glucuronosides degradation"
-	},
-	{
-		"name" : "propanoyl CoA degradation I"
-	},
-	{
-		"name" : "&beta;-D-glucuronide and D-glucuronate degradation"
-	},
-	{
-		"name" : "L-threonine degradation III (to methylglyoxal)"
-	},
-	{
-		"name" : "L-ascorbate degradation I (bacterial, anaerobic)"
-	},
-	{
-		"name" : "<i>D<\/i>-glucarate degradation I"
-	},
-	{
-		"name" : "methylerythritol phosphate pathway I"
-	},
-	{
-		"name" : "L-ascorbate degradation II (bacterial, aerobic)"
-	},
-	{
-		"name" : "D-galacturonate degradation I"
-	},
-	{
-		"name" : "L-threonine degradation I"
-	},
-	{
-		"name" : "superpathway of coenzyme A biosynthesis I (bacteria)"
-	},
-	{
-		"name" : "acetoacetate degradation (to acetyl CoA)"
-	},
-	{
-		"name" : "L-threonine degradation II"
-	},
-	{
-		"name" : "L-threonine degradation IV"
-	},
-	{
-		"name" : "acyl carrier protein metabolism"
-	},
-	{
-		"name" : "muropeptide degradation"
-	},
-	{
-		"name" : "L-cysteine degradation II"
-	},
-	{
-		"name" : "citrate lyase activation"
-	},
-	{
-		"name" : "glycine cleavage"
-	},
-	{
-		"name" : "phenylacetate degradation I (aerobic)"
-	},
-	{
-		"name" : "S-adenosyl-L-methionine biosynthesis"
-	},
-	{
-		"name" : "tRNA processing"
-	},
-	{
-		"name" : "tRNA-uridine 2-thiolation and selenation (bacteria)"
-	},
-	{
-		"name" : "D-serine degradation"
-	},
-	{
-		"name" : "N<sup>6<\/sup>-L-threonylcarbamoyladenosine<sup>37<\/sup>-modified tRNA biosynthesis"
-	},
-	{
-		"name" : "5-(methoxycarbonylmethoxy)uridine biosynthesis"
-	},
-	{
-		"name" : "glycogen biosynthesis I (from ADP-D-Glucose)"
-	},
-	{
-		"name" : "superpathway of tetrahydrofolate biosynthesis"
-	},
-	{
-		"name" : "4-aminobenzoate biosynthesis"
-	},
-	{
-		"name" : "QseBC Two-Component Signal Transduction System, quorum sensing related"
-	},
-	{
-		"name" : "folate polyglutamylation"
-	},
-	{
-		"name" : "<i>O<\/i>-antigen building blocks biosynthesis (<i>E. coli<\/i>)"
-	},
-	{
-		"name" : "tetrahydrofolate biosynthesis"
-	},
-	{
-		"name" : "GlrKR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "folate transformations III (<i>E. coli<\/i>)"
-	},
-	{
-		"name" : "ppGpp metabolism"
-	},
-	{
-		"name" : "Entner-Doudoroff shunt"
-	},
-	{
-		"name" : "BasSR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "L-rhamnose degradation I"
-	},
-	{
-		"name" : "D-mannose degradation I"
-	},
-	{
-		"name" : "trehalose biosynthesis I"
-	},
-	{
-		"name" : "NtrBC Two-Component Signal Transduction System, nitrogen-dependent"
-	},
-	{
-		"name" : "gluconeogenesis I"
-	},
-	{
-		"name" : "L-arabinose degradation I"
-	},
-	{
-		"name" : "PRPP biosynthesis"
-	},
-	{
-		"name" : "UDP-<i>N<\/i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso<\/i>-diaminopimelate containing)"
-	},
-	{
-		"name" : "<i>N<\/i>-acetylneuraminate and <i>N<\/i>-acetylmannosamine degradation I"
-	},
-	{
-		"name" : "peptidoglycan maturation (<i>meso<\/i>-diaminopimelate containing)"
-	},
-	{
-		"name" : "CreCB Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "peptidoglycan biosynthesis I (<I>meso<\/I>-diaminopimelate containing)"
-	},
-	{
-		"name" : "D-xylose degradation I"
-	},
-	{
-		"name" : "D-arabinose degradation I"
-	},
-	{
-		"name" : "NarX Two-Component Signal Transduction System, nitrate dependent"
-	},
-	{
-		"name" : "galactose degradation I (Leloir pathway)"
-	},
-	{
-		"name" : "lactose degradation III"
-	},
-	{
-		"name" : "Rcs Signal Transduction System"
-	},
-	{
-		"name" : "trehalose degradation II (cytosolic)"
-	},
-	{
-		"name" : "trehalose degradation I (low osmolarity)"
-	},
-	{
-		"name" : "PyrSR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "trehalose degradation VI (periplasmic)"
-	},
-	{
-		"name" : "4-aminobutanoate degradation I"
-	},
-	{
-		"name" : "superpathway of 4-aminobutanoate degradation"
-	},
-	{
-		"name" : "ZraSR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "4-aminobutanoate degradation II"
-	},
-	{
-		"name" : "DcuSR Two-Component Signal Transduction System, C<sub>4<\/sub>-dicarboxylate-dependent"
-	},
-	{
-		"name" : "salvage pathways of pyrimidine deoxyribonucleotides"
-	},
-	{
-		"name" : "BarA UvrY Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "pyrimidine deoxyribonucleotide phosphorylation"
-	},
-	{
-		"name" : "BaeSR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "salvage pathways of pyrimidine ribonucleotides"
-	},
-	{
-		"name" : "cyanate degradation"
-	},
-	{
-		"name" : "2,3-dihydroxybenzoate biosynthesis"
-	},
-	{
-		"name" : "pyrimidine ribonucleosides salvage I"
-	},
-	{
-		"name" : "TorTSR Signal Transduction System, TMAO dependent"
-	},
-	{
-		"name" : "putrescine degradation II"
-	},
-	{
-		"name" : "3-dehydroquinate biosynthesis I"
-	},
-	{
-		"name" : "superpathway of glycol metabolism and degradation"
-	},
-	{
-		"name" : "ethylene glycol degradation"
-	},
-	{
-		"name" : "CpxAR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "pyrimidine nucleobases salvage I"
-	},
-	{
-		"name" : "putrescine degradation I"
-	},
-	{
-		"name" : "NarQ Two-Component Signal Transduction System, nitrate dependent"
-	},
-	{
-		"name" : "CMP phosphorylation"
-	},
-	{
-		"name" : "UhpBA Two Component Signal Transduction System"
-	},
-	{
-		"name" : "Aerotactic Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "UTP and CTP <i>de novo<\/i> biosynthesis"
-	},
-	{
-		"name" : "RstBA Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "inosine-5'-phosphate biosynthesis I"
-	},
-	{
-		"name" : "HprSR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "PhoQP Two-Component Signal Transduction System, magnesium-dependent"
-	},
-	{
-		"name" : "EnvZ\/OmrR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "sulfate activation for sulfonation"
-	},
-	{
-		"name" : "AtoSC Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "two-component alkanesulfonate monooxygenase"
-	},
-	{
-		"name" : "superpathway of sulfate assimilation and cysteine biosynthesis"
-	},
-	{
-		"name" : "ArcAB Two-Component Signal Transduction System, quinone dependent"
-	},
-	{
-		"name" : "methylphosphonate degradation I"
-	},
-	{
-		"name" : "PhoRB Two-Component Signal Transduction System, phosphate-dependent"
-	},
-	{
-		"name" : "biotin-carboxyl carrier protein assembly"
-	},
-	{
-		"name" : "(Kdo)<sub>2<\/sub>-lipid A biosynthesis I (E. coli)"
-	},
-	{
-		"name" : "CusSR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "EvgSA Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "fatty acid biosynthesis initiation II"
-	},
-	{
-		"name" : "fatty acid biosynthesis initiation III"
-	},
-	{
-		"name" : "Chemotactic Two-Component Signal Transduction"
-	},
-	{
-		"name" : "fatty acid elongation -- saturated"
-	},
-	{
-		"name" : "glycerophosphodiester degradation"
-	},
-	{
-		"name" : "KdpDE Two-Component Signal Transduction System, potassium-dependent"
-	},
-	{
-		"name" : "glycerol degradation V"
-	},
-	{
-		"name" : "glycerol and glycerophosphodiester degradation"
-	},
-	{
-		"name" : "BtsSR Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "ethanol degradation I"
-	},
-	{
-		"name" : "<i>cis<\/i>-vaccenate biosynthesis"
-	},
-	{
-		"name" : "(5Z)-dodecenoate biosynthesis I"
-	},
-	{
-		"name" : "Nitrogen Regulation Two-Component System"
-	},
-	{
-		"name" : "6-hydroxymethyl-dihydropterin diphosphate biosynthesis I"
-	},
-	{
-		"name" : "phosphopantothenate biosynthesis I"
-	},
-	{
-		"name" : "DpiBA Two-Component Signal Transduction System"
-	},
-	{
-		"name" : "(aminomethyl)phosphonate degradation"
-	},
-	{
-		"name" : "8-amino-7-oxononanoate biosynthesis I"
-	},
-	{
-		"name" : "adenosine nucleotides degradation III"
-	},
-	{
-		"name" : "adenosine nucleotides degradation II"
-	},
-	{
-		"name" : "guanosine nucleotides degradation III"
-	},
-	{
-		"name" : "pyrimidine ribonucleosides salvage II"
-	},
-	{
-		"name" : "pyrimidine ribonucleosides degradation"
-	},
-	{
-		"name" : "pyrimidine ribonucleosides salvage III"
-	},
-	{
-		"name" : "pyrimidine deoxyribonucleosides degradation"
-	},
-	{
-		"name" : "pyrimidine deoxyribonucleotides dephosphorylation"
-	},
-	{
-		"name" : "alanine racemization"
-	},
-	{
-		"name" : "L-homoserine biosynthesis"
-	},
-	{
-		"name" : "L-histidine biosynthesis"
-	},
-	{
-		"name" : "L-lysine biosynthesis I"
-	},
-	{
-		"name" : "glutathione biosynthesis"
-	},
-	{
-		"name" : "L-proline biosynthesis I (from L-glutamate)"
-	},
-	{
-		"name" : "L-selenocysteine biosynthesis I (bacteria)"
-	},
-	{
-		"name" : "NAD phosphorylation and dephosphorylation"
-	},
-	{
-		"name" : "L-cysteine biosynthesis VII (from <i>S<\/i>-sulfo-L-cysteine)"
-	},
-	{
-		"name" : "L-cysteine biosynthesis I"
-	},
-	{
-		"name" : "flavin biosynthesis I (bacteria and plants)"
-	},
-	{
-		"name" : "L-tyrosine biosynthesis I"
-	},
-	{
-		"name" : "glycine biosynthesis I"
-	},
-	{
-		"name" : "prenylated FMNH<sub>2<\/sub> biosynthesis"
-	},
-	{
-		"name" : "L-leucine biosynthesis"
-	},
-	{
-		"name" : "L-phenylalanine biosynthesis I"
-	},
-	{
-		"name" : "glutathione-glutaredoxin redox reactions"
-	},
-	{
-		"name" : "L-alanine biosynthesis I"
-	},
-	{
-		"name" : "L-alanine biosynthesis II"
-	},
-	{
-		"name" : "thioredoxin pathway"
-	},
-	{
-		"name" : "L-alanine biosynthesis III"
-	},
-	{
-		"name" : "L-serine biosynthesis I"
-	},
-	{
-		"name" : "glutathionylspermidine biosynthesis"
-	},
-	{
-		"name" : "autoinducer AI-2 biosynthesis I"
-	},
-	{
-		"name" : "L-aspartate biosynthesis"
-	},
-	{
-		"name" : "L-tryptophan biosynthesis"
-	},
-	{
-		"name" : "menaquinol-8 biosynthesis"
-	},
-	{
-		"name" : "L-isoleucine biosynthesis I (from threonine)"
-	},
-	{
-		"name" : "L-asparagine biosynthesis II"
-	},
-	{
-		"name" : "fructose degradation"
-	},
-	{
-		"name" : "superpathway of menaquinol-8 biosynthesis I"
-	},
-	{
-		"name" : "L-asparagine biosynthesis I"
-	},
-	{
-		"name" : "demethylmenaquinol-8 biosynthesis I"
-	},
-	{
-		"name" : "L-threonine biosynthesis"
-	},
-	{
-		"name" : "L-glutamate biosynthesis III"
-	},
-	{
-		"name" : "ribose phosphorylation"
-	},
-	{
-		"name" : "L-glutamate biosynthesis I"
-	},
-	{
-		"name" : "fucose degradation"
-	},
-	{
-		"name" : "L-valine biosynthesis"
-	},
-	{
-		"name" : "enterobactin biosynthesis"
-	},
-	{
-		"name" : "L-methionine biosynthesis I"
-	},
-	{
-		"name" : "2-deoxy-&alpha;-D-ribose 1-phosphate degradation"
-	},
-	{
-		"name" : "2-carboxy-1,4-naphthoquinol biosynthesis"
-	},
-	{
-		"name" : "phosphatidylserine and phosphatidylethanolamine biosynthesis I"
-	},
-	{
-		"name" : "cardiolipin biosynthesis III"
-	},
-	{
-		"name" : "chitobiose degradation"
-	},
-	{
-		"name" : "superpathway of ubiquinol-8 biosynthesis (early decarboxylation)"
-	},
-	{
-		"name" : "cardiolipin biosynthesis I"
-	},
-	{
-		"name" : "CDP-diacylglycerol biosynthesis II"
-	},
-	{
-		"name" : "D-allose degradation"
-	},
-	{
-		"name" : "ubiquinol-8 biosynthesis (early decarboxylation)"
-	},
-	{
-		"name" : "CDP-diacylglycerol biosynthesis I"
-	},
-	{
-		"name" : "superpathway of thiamine diphosphate biosynthesis I"
-	},
-	{
-		"name" : "&beta;-alanine biosynthesis III"
-	},
-	{
-		"name" : "L-ornithine biosynthesis I"
-	},
-	{
-		"name" : "L-lyxose degradation"
-	},
-	{
-		"name" : "uracil degradation III"
-	},
-	{
-		"name" : "melibiose degradation"
-	},
-	{
-		"name" : "2-<I>O<\/I>-&alpha;-mannosyl-D-glycerate degradation"
-	},
-	{
-		"name" : "D-gulosides conversion to D-glucosides"
-	},
-	{
-		"name" : "glucose and glucose-1-phosphate degradation"
-	},
-	{
-		"name" : "coenzyme A biosynthesis I (prokaryotic)"
-	},
-	{
-		"name" : "tetrapyrrole biosynthesis I (from glutamate)"
-	},
-	{
-		"name" : "3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation"
-	},
-	{
-		"name" : "siroheme biosynthesis"
-	},
-	{
-		"name" : "tetrahydromonapterin biosynthesis"
-	},
-	{
-		"name" : "biotin biosynthesis from 8-amino-7-oxononanoate I"
-	},
-	{
-		"name" : "3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate"
-	},
-	{
-		"name" : "biotin biosynthesis I"
-	},
-	{
-		"name" : "cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate"
-	},
-	{
-		"name" : "guanylyl molybdenum cofactor biosynthesis"
-	},
-	{
-		"name" : "superpathway of phenylethylamine degradation"
-	},
-	{
-		"name" : "bis(guanylyl molybdenum cofactor) biosynthesis"
-	},
-	{
-		"name" : "molybdopterin biosynthesis"
-	},
-	{
-		"name" : "palmitate biosynthesis (type II fatty acid synthase)"
-	},
-	{
-		"name" : "preQ<sub>0<\/sub> biosynthesis"
-	},
-	{
-		"name" : "molybdenum cofactor biosynthesis"
-	},
-	{
-		"name" : "cyclopropane fatty acid (CFA) biosynthesis"
-	},
-	{
-		"name" : "fatty acid biosynthesis initiation (type II)"
-	},
-	{
-		"name" : "cytidylyl molybdenum cofactor biosynthesis"
-	},
-	{
-		"name" : "palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)"
-	},
-	{
-		"name" : "<i>bis<\/i>(guanylyl molybdopterin) cofactor sulfurylation"
-	},
-	{
-		"name" : "<i>S<\/i>-adenosyl-L-methionine salvage I"
-	},
-	{
-		"name" : "pyridoxal 5'-phosphate salvage I"
-	},
-	{
-		"name" : "pyridoxal 5'-phosphate biosynthesis I"
-	},
-	{
-		"name" : "L-alanine degradation I"
-	},
-	{
-		"name" : "superpathway of polyamine biosynthesis I"
-	},
-	{
-		"name" : "superpathway of pyridoxal 5'-phosphate biosynthesis and salvage"
-	},
-	{
-		"name" : "superpathway of arginine and polyamine biosynthesis"
-	},
-	{
-		"name" : "tRNA charging"
-	},
-	{
-		"name" : "aminopropylcadaverine biosynthesis"
-	},
-	{
-		"name" : "lipoate biosynthesis and incorporation II"
-	},
-	{
-		"name" : "glycine betaine biosynthesis I (Gram-negative bacteria)"
-	},
-	{
-		"name" : "lipoate salvage I"
-	},
-	{
-		"name" : "UMP biosynthesis I"
-	},
-	{
-		"name" : "lipoate biosynthesis and incorporation I"
-	},
-	{
-		"name" : "dTDP-&beta;-L-rhamnose biosynthesis"
-	},
-	{
-		"name" : "dTDP-<i>N<\/i>-acetylthomosamine biosynthesis"
-	},
-	{
-		"name" : "NAD salvage pathway II (PNC IV cycle)"
-	},
-	{
-		"name" : "superpathway of ornithine degradation"
-	},
-	{
-		"name" : "NAD <i>de novo<\/i> biosynthesis I (from aspartate)"
-	},
-	{
-		"name" : "UDP-&alpha;-D-glucose biosynthesis"
-	},
-	{
-		"name" : "superpathway of <i>N<\/i>-acetylglucosamine, <i>N<\/i>-acetylmannosamine and <i>N<\/i>-acetylneuraminate degradation"
-	},
-	{
-		"name" : "UDP-<i>N<\/i>-acetyl-&alpha;-D-mannosaminouronate biosynthesis"
-	},
-	{
-		"name" : "NAD salvage pathway I (PNC VI cycle)"
-	},
-	{
-		"name" : "UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)"
-	},
-	{
-		"name" : "ethanolamine utilization"
-	},
-	{
-		"name" : "UDP-&alpha;-D-galactose biosynthesis"
-	},
-	{
-		"name" : "NAD salvage pathway IV (from nicotinamide riboside)"
-	},
-	{
-		"name" : "ADP-L-<i>glycero<\/i>-&beta;-D-<i>manno<\/i>-heptose biosynthesis"
-	},
-	{
-		"name" : "phenylethylamine degradation I"
-	},
-	{
-		"name" : "GDP-L-fucose biosynthesis I (from GDP-D-mannose)"
-	},
-	{
-		"name" : "GDP-mannose biosynthesis"
-	},
-	{
-		"name" : "queuosine biosynthesis I (<i>de novo<\/i>)"
-	},
-	{
-		"name" : "UDP-<i>N<\/i>-acetyl-D-glucosamine biosynthesis I"
-	},
-	{
-		"name" : "CMP-3-deoxy-D-<I>manno<\/I>-octulosonate biosynthesis"
-	},
-	{
-		"name" : "putrescine biosynthesis III"
-	},
-	{
-		"name" : "putrescine biosynthesis I"
-	},
-	{
-		"name" : "spermidine biosynthesis I"
-	},
-	{
-		"name" : "purine ribonucleosides degradation"
-	},
-	{
-		"name" : "purine deoxyribonucleosides degradation I"
-	},
-	{
-		"name" : "superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"
-	},
-	{
-		"name" : "pseudouridine degradation"
-	},
-	{
-		"name" : "superpathway of guanine and guanosine salvage"
-	},
-	{
-		"name" : "<i>S<\/i>-methyl-5'-thioadenosine degradation IV"
-	},
-	{
-		"name" : "allantoin degradation IV (anaerobic)"
-	},
-	{
-		"name" : "pyrimidine nucleobases salvage II"
-	},
-	{
-		"name" : "superpathway of fatty acid biosynthesis I (E. coli)"
-	},
-	{
-		"name" : "taurine degradation IV"
-	},
-	{
-		"name" : "superpathway of branched chain amino acid biosynthesis"
-	},
-	{
-		"name" : "polyisoprenoid biosynthesis (<i>E. coli<\/i>)"
-	},
-	{
-		"name" : "thiosulfate disproportionation IV (rhodanese)"
-	},
-	{
-		"name" : "superpathway of pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis"
-	},
-	{
-		"name" : "L-arginine degradation III (arginine decarboxylase\/agmatinase pathway)"
-	},
-	{
-		"name" : "superpathway of aromatic amino acid biosynthesis"
-	},
-	{
-		"name" : "assimilatory sulfate reduction I"
-	},
-	{
-		"name" : "superpathway of lipopolysaccharide biosynthesis"
-	},
-	{
-		"name" : "L-arginine degradation II (AST pathway)"
-	},
-	{
-		"name" : "allantoin degradation to glyoxylate III"
-	},
-	{
-		"name" : "L-asparagine degradation I"
-	},
-	{
-		"name" : "superpathway of purine deoxyribonucleosides degradation"
-	},
-	{
-		"name" : "formaldehyde oxidation II (glutathione-dependent)"
-	},
-	{
-		"name" : "superpathway of L-threonine metabolism"
-	},
-	{
-		"name" : "superpathway of L-homoserine and L-methionine biosynthesis"
-	},
-	{
-		"name" : "superpathway of guanosine nucleotides <i>de novo<\/i> biosynthesis II"
-	},
-	{
-		"name" : "2-oxoglutarate decarboxylation to succinyl-CoA"
-	},
-	{
-		"name" : "superpathway of hexuronide and hexuronate degradation"
-	},
-	{
-		"name" : "superpathway of unsaturated fatty acids biosynthesis (<i>E. coli<\/i>)"
-	},
-	{
-		"name" : "NADH to cytochrome <i>bo<\/i> oxidase electron transfer II"
-	},
-	{
-		"name" : "L-arginine biosynthesis I (via L-ornithine)"
-	},
-	{
-		"name" : "superpathway of pyrimidine nucleobases salvage"
-	},
-	{
-		"name" : "succinate to cytochrome <i>bo<\/i> oxidase electron transfer"
-	},
-	{
-		"name" : "superpathway of L-asparagine biosynthesis"
-	},
-	{
-		"name" : "5-aminoimidazole ribonucleotide biosynthesis I"
-	},
-	{
-		"name" : "5-aminoimidazole ribonucleotide biosynthesis II"
-	},
-	{
-		"name" : "succinate to cytochrome <i>bd<\/i> oxidase electron transfer"
-	},
-	{
-		"name" : "superpathway of fucose and rhamnose degradation"
-	},
-	{
-		"name" : "superpathway of chorismate metabolism"
-	},
-	{
-		"name" : "superpathway of L-arginine and L-ornithine degradation"
-	},
-	{
-		"name" : "D-lactate to cytochrome <i>bo<\/i> oxidase electron transfer"
-	},
-	{
-		"name" : "superpathway of 5-aminoimidazole ribonucleotide biosynthesis"
-	},
-	{
-		"name" : "superpathway of pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis (<i>E. coli<\/i>)"
-	},
-	{
-		"name" : "pyruvate to cytochrome <i>bd<\/i> oxidase electron transfer"
-	},
-	{
-		"name" : "superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"
-	},
-	{
-		"name" : "superpathway of D-glucarate and D-galactarate degradation"
-	},
-	{
-		"name" : "NADH to cytochrome <i>bo<\/i> oxidase electron transfer I"
-	},
-	{
-		"name" : "aspartate superpathway"
-	},
-	{
-		"name" : "superpathway of L-aspartate and L-asparagine biosynthesis"
-	},
-	{
-		"name" : "glycerol-3-phosphate to cytochrome <i>bo<\/i> oxidase electron transfer"
-	},
-	{
-		"name" : "superpathway of phospholipid biosynthesis I (bacteria)"
-	},
-	{
-		"name" : "superpathway of pyrimidine ribonucleosides salvage"
-	},
-	{
-		"name" : "NADH to cytochrome <i>bd<\/i> oxidase electron transfer II"
-	},
-	{
-		"name" : "superpathway of L-serine and glycine biosynthesis I"
-	},
-	{
-		"name" : "chorismate biosynthesis from 3-dehydroquinate"
-	},
-	{
-		"name" : "pyruvate to cytochrome <i>bo<\/i> oxidase electron transfer"
-	},
-	{
-		"name" : "superpathway of L-alanine biosynthesis"
-	},
-	{
-		"name" : "superpathway of histidine, purine, and pyrimidine biosynthesis"
-	},
-	{
-		"name" : "chorismate biosynthesis I"
-	},
-	{
-		"name" : "NADH to cytochrome <i>bd<\/i> oxidase electron transfer I"
-	},
-	{
-		"name" : "superpathway of purine nucleotides <i>de novo<\/i> biosynthesis II"
-	},
-	{
-		"name" : "superpathway of glyoxylate bypass and TCA"
-	},
-	{
-		"name" : "4-hydroxybenzoate biosynthesis II (bacteria)"
-	},
-	{
-		"name" : "proline to cytochrome <i>bo<\/i> oxidase electron transfer"
-	},
-	{
-		"name" : "superpathway of pyrimidine deoxyribonucleosides degradation"
-	},
-	{
-		"name" : "superpathway of <i>S<\/i>-adenosyl-L-methionine biosynthesis"
-	},
-	{
-		"name" : "superpathway of L-threonine biosynthesis"
-	},
-	{
-		"name" : "L-cysteine degradation III"
-	},
-	{
-		"name" : "superpathway of fatty acid biosynthesis initiation (E. coli)"
-	},
-	{
-		"name" : "superpathway of acetate utilization and formation"
-	},
-	{
-		"name" : "superpathway of adenosine nucleotides <i>de novo<\/i> biosynthesis II"
-	},
-	{
-		"name" : "L-glutamine biosynthesis I"
-	},
-	{
-		"name" : "superpathway of pyrimidine ribonucleotides <i>de novo<\/i> biosynthesis"
-	},
-	{
-		"name" : "citrate degradation"
-	},
-	{
-		"name" : "colanic acid building blocks biosynthesis"
-	},
-	{
-		"name" : "ammonia assimilation cycle III"
-	},
-	{
-		"name" : "pyruvate decarboxylation to acetyl CoA I"
-	},
-	{
-		"name" : "guanosine ribonucleotides <i>de novo<\/i> biosynthesis"
-	},
-	{
-		"name" : "nitrate reduction VIII (dissimilatory)"
-	},
-	{
-		"name" : "2-hydroxypenta-2,4-dienoate degradation"
-	},
-	{
-		"name" : "lipid A-core biosynthesis (<i>E. coli<\/i> K-12)"
-	},
-	{
-		"name" : "nitrate reduction X (dissimilatory, periplasmic)"
-	},
-	{
-		"name" : "D-malate degradation"
-	},
-	{
-		"name" : "adenosine ribonucleotides <i>de novo<\/i> biosynthesis"
-	},
-	{
-		"name" : "glycolate and glyoxylate degradation I"
-	}
+	
+		"Transport, mitochondrial"
+	,
+	
+		"Transport, extracellular"
+	,
+	
+		"Transport, lysosomal"
+	,
+	
+		"Vitamin D metabolism"
+	,
+	
+		"Transport, endoplasmic reticular"
+	,
+	
+		"Beta-Alanine metabolism"
+	,
+	
+		"Glycine, serine, alanine, and threonine metabolism"
+	,
+	
+		"Methionine and cysteine metabolism"
+	,
+	
+		"Lysine metabolism"
+	,
+	
+		"Tryptophan metabolism"
+	,
+	
+		"Tyrosine metabolism"
+	,
+	
+		"Ubiquinone synthesis"
+	,
+	
+		"Taurine and hypotaurine metabolism"
+	,
+	
+		"Cytochrome metabolism"
+	,
+	
+		"Steroid metabolism"
+	,
+	
+		"Sphingolipid metabolism"
+	,
+	
+		"O-glycan metabolism"
+	,
+	
+		"Blood group synthesis"
+	,
+	
+		"Glutamate metabolism"
+	,
+	
+		"Valine, leucine, and isoleucine metabolism"
+	,
+	
+		"Fatty acid oxidation"
+	,
+	
+		"Transport, peroxisomal"
+	,
+	
+		"Propanoate metabolism"
+	,
+	
+		"Transport, golgi apparatus"
+	,
+	
+		"Aminosugar metabolism"
+	,
+	
+		"Transport, nuclear"
+	,
+	
+		"Urea cycle"
+	,
+	
+		"Citric acid cycle"
+	,
+	
+		"Vitamin B2 metabolism"
+	,
+	
+		"Nucleotide interconversion"
+	,
+	
+		"Arginine and proline metabolism"
+	,
+	
+		"Purine synthesis"
+	,
+	
+		"Keratan sulfate synthesis"
+	,
+	
+		"Alanine and aspartate metabolism"
+	,
+	
+		"N-glycan degradation"
+	,
+	
+		"Bile acid synthesis"
+	,
+	
+		"Pyruvate metabolism"
+	,
+	
+		"Glycolysis\/gluconeogenesis"
+	,
+	
+		"Eicosanoid metabolism"
+	,
+	
+		"Starch and sucrose metabolism"
+	,
+	
+		"Biotin metabolism"
+	,
+	
+		"Pentose phosphate pathway"
+	,
+	
+		"R group synthesis"
+	,
+	
+		"Miscellaneous"
+	,
+	
+		"Vitamin C metabolism"
+	,
+	
+		"Heme degradation"
+	,
+	
+		"Butanoate metabolism"
+	,
+	
+		"Cholesterol metabolism"
+	,
+	
+		"ROS detoxification"
+	,
+	
+		"Glycerophospholipid metabolism"
+	,
+	
+		"Alkaloid synthesis"
+	,
+	
+		"Chondroitin sulfate degradation"
+	,
+	
+		"Pyrimidine catabolism"
+	,
+	
+		"N-glycan synthesis"
+	,
+	
+		"Fatty acid synthesis"
+	,
+	
+		"Pyrimidine synthesis"
+	,
+	
+		"Intracellular demand"
+	,
+	
+		"Galactose metabolism"
+	,
+	
+		"Heme synthesis"
+	,
+	
+		"Fructose and mannose metabolism"
+	,
+	
+		"Folate metabolism"
+	,
+	
+		"Keratan sulfate degradation"
+	,
+	
+		"Chondroitin synthesis"
+	,
+	
+		"Glutathione metabolism"
+	,
+	
+		"Hyaluronan metabolism"
+	,
+	
+		"Heparan sulfate degradation"
+	,
+	
+		"Glyoxylate and dicarboxylate metabolism"
+	,
+	
+		"Triacylglycerol synthesis"
+	,
+	
+		"Phosphatidylinositol phosphate metabolism"
+	,
+	
+		"Histidine metabolism"
+	,
+	
+		"Inositol phosphate metabolism"
+	,
+	
+		"C5-branched dibasic acid metabolism"
+	,
+	
+		"CoA catabolism"
+	,
+	
+		"Vitamin A metabolism"
+	,
+	
+		"NAD metabolism"
+	,
+	
+		"Purine catabolism"
+	,
+	
+		"Limonene and pinene degradation"
+	,
+	
+		"Vitamin B6 metabolism"
+	,
+	
+		"Phenylalanine metabolism"
+	,
+	
+		"Oxidative phosphorylation"
+	,
+	
+		"D-alanine metabolism"
+	,
+	
+		"Tetrahydrobiopterin metabolism"
+	,
+	
+		"Thiamine metabolism"
+	,
+	
+		"Nucleotide sugar metabolism"
+	,
+	
+		"CoA synthesis"
+	,
+	
+		"Androgen and estrogen synthesis and metabolism"
+	,
+	
+		"Glycosphingolipid metabolism"
+	,
+	
+		"Linoleate metabolism"
+	,
+	
+		"Arachidonic acid metabolism"
+	,
+	
+		"Vitamin E metabolism"
+	,
+	
+		"Biomass and maintenance functions"
+	,
+	
+		"Intracellular source\/sink"
+	,
+	
+		"Dietary fiber binding"
+	,
+	
+		"Squalene and cholesterol synthesis"
+	,
+	
+		"Exchange\/demand reaction"
+	,
+	
+		"Hippurate metabolism"
+	,
+	
+		"Peptide metabolism"
+	,
+	
+		"Nucleotide salvage pathway"
+	,
+	
+		"Leukotriene metabolism"
+	,
+	
+		"Nucleotide metabolism"
+	,
+	
+		"N-glycan metabolism"
+	,
+	
+		"Drug metabolism"
+	,
+	
+		"Protein formation"
+	,
+	
+		"Vitamin B12 metabolism"
+	,
+	
+		"Lipoate metabolism"
+	,
+	
+		"nitrate reduction III (dissimilatory)"
+	,
+	
+		"D-gluconate degradation"
+	,
+	
+		"glycolate and glyoxylate degradation II"
+	,
+	
+		"nitrate reduction IX (dissimilatory)"
+	,
+	
+		"acetate conversion to acetyl-CoA"
+	,
+	
+		"nitrate reduction VIIIb (dissimilatory)"
+	,
+	
+		"enterobacterial common antigen biosynthesis"
+	,
+	
+		"polymyxin resistance"
+	,
+	
+		"xanthine and xanthosine salvage"
+	,
+	
+		"adenine and adenosine salvage III"
+	,
+	
+		"lipid IV<sub>A<\/sub> biosynthesis (E. coli)"
+	,
+	
+		"adenine and adenosine salvage II"
+	,
+	
+		"adenine and adenosine salvage V"
+	,
+	
+		"superpathway of (Kdo)<SUB>2<\/SUB>-lipid A biosynthesis"
+	,
+	
+		"pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis II"
+	,
+	
+		"cadaverine biosynthesis"
+	,
+	
+		"L-glutamate degradation IX (via 4-aminobutanoate)"
+	,
+	
+		"adenosine deoxyribonucleotides <i>de novo<\/i> biosynthesis II"
+	,
+	
+		"pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis I"
+	,
+	
+		"arginine dependent acid resistance"
+	,
+	
+		"autoinducer AI-2 degradation"
+	,
+	
+		"glycogen degradation I"
+	,
+	
+		"superoxide radicals degradation"
+	,
+	
+		"guanosine deoxyribonucleotides <i>de novo<\/i> biosynthesis II"
+	,
+	
+		"curcumin degradation"
+	,
+	
+		"arsenate detoxification II (glutaredoxin)"
+	,
+	
+		"guanine and guanosine salvage"
+	,
+	
+		"superpathway of methylglyoxal degradation"
+	,
+	
+		"2-methylcitrate cycle I"
+	,
+	
+		"L-carnitine degradation I"
+	,
+	
+		"methylglyoxal degradation I"
+	,
+	
+		"oleate &beta;-oxidation"
+	,
+	
+		"guanine and guanosine salvage III"
+	,
+	
+		"methylglyoxal degradation IV"
+	,
+	
+		"fatty acid &beta;-oxidation I (generic)"
+	,
+	
+		"methylglyoxal degradation III"
+	,
+	
+		"fructoselysine and psicoselysine degradation"
+	,
+	
+		"NADH to trimethylamine <i>N<\/i>-oxide electron transfer"
+	,
+	
+		"glycerol-3-phosphate to fumarate electron transfer"
+	,
+	
+		"NADH to hydrogen peroxide electron transfer"
+	,
+	
+		"hydrogen to fumarate electron transfer"
+	,
+	
+		"heme <i>b<\/i> biosynthesis II (oxygen-independent)"
+	,
+	
+		"NADH to fumarate electron transfer"
+	,
+	
+		"heme <i>b<\/i> biosynthesis V (aerobic)"
+	,
+	
+		"formate to nitrite electron transfer"
+	,
+	
+		"D-galactonate degradation"
+	,
+	
+		"superpathway of heme <i>b<\/i> biosynthesis from uroporphyrinogen-III"
+	,
+	
+		"formate to dimethyl sulfoxide electron transfer"
+	,
+	
+		"D-fructuronate degradation"
+	,
+	
+		"cytochrome <i>c<\/i> biogenesis (system I type)"
+	,
+	
+		"hydrogen to trimethylamine N-oxide electron transfer"
+	,
+	
+		"ketogluconate metabolism"
+	,
+	
+		"L-idonate degradation"
+	,
+	
+		"NADH to dimethyl sulfoxide electron transfer"
+	,
+	
+		"adenosylcobalamin salvage from cobalamin"
+	,
+	
+		"formate to trimethylamine <i>N<\/i>-oxide electron transfer"
+	,
+	
+		"L-galactonate degradation"
+	,
+	
+		"conversion of succinate to propanoate"
+	,
+	
+		"glycerol-3-phosphate to hydrogen peroxide electron transport"
+	,
+	
+		"hydrogen to dimethyl sulfoxide electron transfer"
+	,
+	
+		"glycolysis II (from fructose 6-phosphate)"
+	,
+	
+		"4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis I"
+	,
+	
+		"glycolysis I (from glucose 6-phosphate)"
+	,
+	
+		"thiazole component of thiamine diphosphate biosynthesis I"
+	,
+	
+		"pentose phosphate pathway (non-oxidative branch) I"
+	,
+	
+		"hydroxymethylpyrimidine salvage"
+	,
+	
+		"pentose phosphate pathway"
+	,
+	
+		"di-<i>trans<\/i>,poly-<i>cis<\/i>-undecaprenyl phosphate biosynthesis"
+	,
+	
+		"thiamine diphosphate salvage II"
+	,
+	
+		"pentose phosphate pathway (oxidative branch) I"
+	,
+	
+		"octaprenyl diphosphate biosynthesis"
+	,
+	
+		"<i>trans, trans<\/i>-farnesyl diphosphate biosynthesis"
+	,
+	
+		"thiamine diphosphate biosynthesis I (E. coli)"
+	,
+	
+		"TCA cycle I (prokaryotic)"
+	,
+	
+		"allantoin degradation to ureidoglycolate II (ammonia producing)"
+	,
+	
+		"glyoxylate cycle"
+	,
+	
+		"superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass"
+	,
+	
+		"sedoheptulose bisphosphate bypass"
+	,
+	
+		"superpathway of glycolysis and the Entner-Doudoroff pathway"
+	,
+	
+		"ATP biosynthesis"
+	,
+	
+		"adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I"
+	,
+	
+		"adenosylcobinamide-GDP salvage from cobinamide I"
+	,
+	
+		"superpathway of adenosylcobalamin salvage from cobinamide I"
+	,
+	
+		"L-lactaldehyde degradation (aerobic)"
+	,
+	
+		"L-lactaldehyde degradation (anaerobic)"
+	,
+	
+		"L-serine degradation"
+	,
+	
+		"mixed acid fermentation"
+	,
+	
+		"<i>N<\/i>-acetylglucosamine degradation I"
+	,
+	
+		"Kdo transfer to lipid IV<sub>A<\/sub> I (E. coli)"
+	,
+	
+		"sulfoquinovose degradation I"
+	,
+	
+		"L-glutamine degradation I"
+	,
+	
+		"acetate and ATP formation from acetyl-CoA I"
+	,
+	
+		"L-lysine degradation I"
+	,
+	
+		"mannitol degradation I"
+	,
+	
+		"superpathway of hexitol degradation (bacteria)"
+	,
+	
+		"proline degradation"
+	,
+	
+		"galactitol degradation"
+	,
+	
+		"glycerol degradation I"
+	,
+	
+		"D-sorbitol degradation II"
+	,
+	
+		"periplasmic disulfide bond reduction"
+	,
+	
+		"L-tryptophan degradation II (via pyruvate)"
+	,
+	
+		"N-end rule pathway I (prokaryotic)"
+	,
+	
+		"anhydromuropeptides recycling I"
+	,
+	
+		"periplasmic disulfide bond formation"
+	,
+	
+		"lipoprotein posttranslational modification"
+	,
+	
+		"D-galactarate degradation I"
+	,
+	
+		"L-glutamate degradation II"
+	,
+	
+		"superpathway of &beta;-D-glucuronosides degradation"
+	,
+	
+		"propanoyl CoA degradation I"
+	,
+	
+		"&beta;-D-glucuronide and D-glucuronate degradation"
+	,
+	
+		"L-threonine degradation III (to methylglyoxal)"
+	,
+	
+		"L-ascorbate degradation I (bacterial, anaerobic)"
+	,
+	
+		"<i>D<\/i>-glucarate degradation I"
+	,
+	
+		"methylerythritol phosphate pathway I"
+	,
+	
+		"L-ascorbate degradation II (bacterial, aerobic)"
+	,
+	
+		"D-galacturonate degradation I"
+	,
+	
+		"L-threonine degradation I"
+	,
+	
+		"superpathway of coenzyme A biosynthesis I (bacteria)"
+	,
+	
+		"acetoacetate degradation (to acetyl CoA)"
+	,
+	
+		"L-threonine degradation II"
+	,
+	
+		"L-threonine degradation IV"
+	,
+	
+		"acyl carrier protein metabolism"
+	,
+	
+		"muropeptide degradation"
+	,
+	
+		"L-cysteine degradation II"
+	,
+	
+		"citrate lyase activation"
+	,
+	
+		"glycine cleavage"
+	,
+	
+		"phenylacetate degradation I (aerobic)"
+	,
+	
+		"S-adenosyl-L-methionine biosynthesis"
+	,
+	
+		"tRNA processing"
+	,
+	
+		"tRNA-uridine 2-thiolation and selenation (bacteria)"
+	,
+	
+		"D-serine degradation"
+	,
+	
+		"N<sup>6<\/sup>-L-threonylcarbamoyladenosine<sup>37<\/sup>-modified tRNA biosynthesis"
+	,
+	
+		"5-(methoxycarbonylmethoxy)uridine biosynthesis"
+	,
+	
+		"glycogen biosynthesis I (from ADP-D-Glucose)"
+	,
+	
+		"superpathway of tetrahydrofolate biosynthesis"
+	,
+	
+		"4-aminobenzoate biosynthesis"
+	,
+	
+		"QseBC Two-Component Signal Transduction System, quorum sensing related"
+	,
+	
+		"folate polyglutamylation"
+	,
+	
+		"<i>O<\/i>-antigen building blocks biosynthesis (<i>E. coli<\/i>)"
+	,
+	
+		"tetrahydrofolate biosynthesis"
+	,
+	
+		"GlrKR Two-Component Signal Transduction System"
+	,
+	
+		"folate transformations III (<i>E. coli<\/i>)"
+	,
+	
+		"ppGpp metabolism"
+	,
+	
+		"Entner-Doudoroff shunt"
+	,
+	
+		"BasSR Two-Component Signal Transduction System"
+	,
+	
+		"L-rhamnose degradation I"
+	,
+	
+		"D-mannose degradation I"
+	,
+	
+		"trehalose biosynthesis I"
+	,
+	
+		"NtrBC Two-Component Signal Transduction System, nitrogen-dependent"
+	,
+	
+		"gluconeogenesis I"
+	,
+	
+		"L-arabinose degradation I"
+	,
+	
+		"PRPP biosynthesis"
+	,
+	
+		"UDP-<i>N<\/i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso<\/i>-diaminopimelate containing)"
+	,
+	
+		"<i>N<\/i>-acetylneuraminate and <i>N<\/i>-acetylmannosamine degradation I"
+	,
+	
+		"peptidoglycan maturation (<i>meso<\/i>-diaminopimelate containing)"
+	,
+	
+		"CreCB Two-Component Signal Transduction System"
+	,
+	
+		"peptidoglycan biosynthesis I (<I>meso<\/I>-diaminopimelate containing)"
+	,
+	
+		"D-xylose degradation I"
+	,
+	
+		"D-arabinose degradation I"
+	,
+	
+		"NarX Two-Component Signal Transduction System, nitrate dependent"
+	,
+	
+		"galactose degradation I (Leloir pathway)"
+	,
+	
+		"lactose degradation III"
+	,
+	
+		"Rcs Signal Transduction System"
+	,
+	
+		"trehalose degradation II (cytosolic)"
+	,
+	
+		"trehalose degradation I (low osmolarity)"
+	,
+	
+		"PyrSR Two-Component Signal Transduction System"
+	,
+	
+		"trehalose degradation VI (periplasmic)"
+	,
+	
+		"4-aminobutanoate degradation I"
+	,
+	
+		"superpathway of 4-aminobutanoate degradation"
+	,
+	
+		"ZraSR Two-Component Signal Transduction System"
+	,
+	
+		"4-aminobutanoate degradation II"
+	,
+	
+		"DcuSR Two-Component Signal Transduction System, C<sub>4<\/sub>-dicarboxylate-dependent"
+	,
+	
+		"salvage pathways of pyrimidine deoxyribonucleotides"
+	,
+	
+		"BarA UvrY Two-Component Signal Transduction System"
+	,
+	
+		"pyrimidine deoxyribonucleotide phosphorylation"
+	,
+	
+		"BaeSR Two-Component Signal Transduction System"
+	,
+	
+		"salvage pathways of pyrimidine ribonucleotides"
+	,
+	
+		"cyanate degradation"
+	,
+	
+		"2,3-dihydroxybenzoate biosynthesis"
+	,
+	
+		"pyrimidine ribonucleosides salvage I"
+	,
+	
+		"TorTSR Signal Transduction System, TMAO dependent"
+	,
+	
+		"putrescine degradation II"
+	,
+	
+		"3-dehydroquinate biosynthesis I"
+	,
+	
+		"superpathway of glycol metabolism and degradation"
+	,
+	
+		"ethylene glycol degradation"
+	,
+	
+		"CpxAR Two-Component Signal Transduction System"
+	,
+	
+		"pyrimidine nucleobases salvage I"
+	,
+	
+		"putrescine degradation I"
+	,
+	
+		"NarQ Two-Component Signal Transduction System, nitrate dependent"
+	,
+	
+		"CMP phosphorylation"
+	,
+	
+		"UhpBA Two Component Signal Transduction System"
+	,
+	
+		"Aerotactic Two-Component Signal Transduction System"
+	,
+	
+		"UTP and CTP <i>de novo<\/i> biosynthesis"
+	,
+	
+		"RstBA Two-Component Signal Transduction System"
+	,
+	
+		"inosine-5'-phosphate biosynthesis I"
+	,
+	
+		"HprSR Two-Component Signal Transduction System"
+	,
+	
+		"PhoQP Two-Component Signal Transduction System, magnesium-dependent"
+	,
+	
+		"EnvZ\/OmrR Two-Component Signal Transduction System"
+	,
+	
+		"sulfate activation for sulfonation"
+	,
+	
+		"AtoSC Two-Component Signal Transduction System"
+	,
+	
+		"two-component alkanesulfonate monooxygenase"
+	,
+	
+		"superpathway of sulfate assimilation and cysteine biosynthesis"
+	,
+	
+		"ArcAB Two-Component Signal Transduction System, quinone dependent"
+	,
+	
+		"methylphosphonate degradation I"
+	,
+	
+		"PhoRB Two-Component Signal Transduction System, phosphate-dependent"
+	,
+	
+		"biotin-carboxyl carrier protein assembly"
+	,
+	
+		"(Kdo)<sub>2<\/sub>-lipid A biosynthesis I (E. coli)"
+	,
+	
+		"CusSR Two-Component Signal Transduction System"
+	,
+	
+		"EvgSA Two-Component Signal Transduction System"
+	,
+	
+		"fatty acid biosynthesis initiation II"
+	,
+	
+		"fatty acid biosynthesis initiation III"
+	,
+	
+		"Chemotactic Two-Component Signal Transduction"
+	,
+	
+		"fatty acid elongation -- saturated"
+	,
+	
+		"glycerophosphodiester degradation"
+	,
+	
+		"KdpDE Two-Component Signal Transduction System, potassium-dependent"
+	,
+	
+		"glycerol degradation V"
+	,
+	
+		"glycerol and glycerophosphodiester degradation"
+	,
+	
+		"BtsSR Two-Component Signal Transduction System"
+	,
+	
+		"ethanol degradation I"
+	,
+	
+		"<i>cis<\/i>-vaccenate biosynthesis"
+	,
+	
+		"(5Z)-dodecenoate biosynthesis I"
+	,
+	
+		"Nitrogen Regulation Two-Component System"
+	,
+	
+		"6-hydroxymethyl-dihydropterin diphosphate biosynthesis I"
+	,
+	
+		"phosphopantothenate biosynthesis I"
+	,
+	
+		"DpiBA Two-Component Signal Transduction System"
+	,
+	
+		"(aminomethyl)phosphonate degradation"
+	,
+	
+		"8-amino-7-oxononanoate biosynthesis I"
+	,
+	
+		"adenosine nucleotides degradation III"
+	,
+	
+		"adenosine nucleotides degradation II"
+	,
+	
+		"guanosine nucleotides degradation III"
+	,
+	
+		"pyrimidine ribonucleosides salvage II"
+	,
+	
+		"pyrimidine ribonucleosides degradation"
+	,
+	
+		"pyrimidine ribonucleosides salvage III"
+	,
+	
+		"pyrimidine deoxyribonucleosides degradation"
+	,
+	
+		"pyrimidine deoxyribonucleotides dephosphorylation"
+	,
+	
+		"alanine racemization"
+	,
+	
+		"L-homoserine biosynthesis"
+	,
+	
+		"L-histidine biosynthesis"
+	,
+	
+		"L-lysine biosynthesis I"
+	,
+	
+		"glutathione biosynthesis"
+	,
+	
+		"L-proline biosynthesis I (from L-glutamate)"
+	,
+	
+		"L-selenocysteine biosynthesis I (bacteria)"
+	,
+	
+		"NAD phosphorylation and dephosphorylation"
+	,
+	
+		"L-cysteine biosynthesis VII (from <i>S<\/i>-sulfo-L-cysteine)"
+	,
+	
+		"L-cysteine biosynthesis I"
+	,
+	
+		"flavin biosynthesis I (bacteria and plants)"
+	,
+	
+		"L-tyrosine biosynthesis I"
+	,
+	
+		"glycine biosynthesis I"
+	,
+	
+		"prenylated FMNH<sub>2<\/sub> biosynthesis"
+	,
+	
+		"L-leucine biosynthesis"
+	,
+	
+		"L-phenylalanine biosynthesis I"
+	,
+	
+		"glutathione-glutaredoxin redox reactions"
+	,
+	
+		"L-alanine biosynthesis I"
+	,
+	
+		"L-alanine biosynthesis II"
+	,
+	
+		"thioredoxin pathway"
+	,
+	
+		"L-alanine biosynthesis III"
+	,
+	
+		"L-serine biosynthesis I"
+	,
+	
+		"glutathionylspermidine biosynthesis"
+	,
+	
+		"autoinducer AI-2 biosynthesis I"
+	,
+	
+		"L-aspartate biosynthesis"
+	,
+	
+		"L-tryptophan biosynthesis"
+	,
+	
+		"menaquinol-8 biosynthesis"
+	,
+	
+		"L-isoleucine biosynthesis I (from threonine)"
+	,
+	
+		"L-asparagine biosynthesis II"
+	,
+	
+		"fructose degradation"
+	,
+	
+		"superpathway of menaquinol-8 biosynthesis I"
+	,
+	
+		"L-asparagine biosynthesis I"
+	,
+	
+		"demethylmenaquinol-8 biosynthesis I"
+	,
+	
+		"L-threonine biosynthesis"
+	,
+	
+		"L-glutamate biosynthesis III"
+	,
+	
+		"ribose phosphorylation"
+	,
+	
+		"L-glutamate biosynthesis I"
+	,
+	
+		"fucose degradation"
+	,
+	
+		"L-valine biosynthesis"
+	,
+	
+		"enterobactin biosynthesis"
+	,
+	
+		"L-methionine biosynthesis I"
+	,
+	
+		"2-deoxy-&alpha;-D-ribose 1-phosphate degradation"
+	,
+	
+		"2-carboxy-1,4-naphthoquinol biosynthesis"
+	,
+	
+		"phosphatidylserine and phosphatidylethanolamine biosynthesis I"
+	,
+	
+		"cardiolipin biosynthesis III"
+	,
+	
+		"chitobiose degradation"
+	,
+	
+		"superpathway of ubiquinol-8 biosynthesis (early decarboxylation)"
+	,
+	
+		"cardiolipin biosynthesis I"
+	,
+	
+		"CDP-diacylglycerol biosynthesis II"
+	,
+	
+		"D-allose degradation"
+	,
+	
+		"ubiquinol-8 biosynthesis (early decarboxylation)"
+	,
+	
+		"CDP-diacylglycerol biosynthesis I"
+	,
+	
+		"superpathway of thiamine diphosphate biosynthesis I"
+	,
+	
+		"&beta;-alanine biosynthesis III"
+	,
+	
+		"L-ornithine biosynthesis I"
+	,
+	
+		"L-lyxose degradation"
+	,
+	
+		"uracil degradation III"
+	,
+	
+		"melibiose degradation"
+	,
+	
+		"2-<I>O<\/I>-&alpha;-mannosyl-D-glycerate degradation"
+	,
+	
+		"D-gulosides conversion to D-glucosides"
+	,
+	
+		"glucose and glucose-1-phosphate degradation"
+	,
+	
+		"coenzyme A biosynthesis I (prokaryotic)"
+	,
+	
+		"tetrapyrrole biosynthesis I (from glutamate)"
+	,
+	
+		"3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation"
+	,
+	
+		"siroheme biosynthesis"
+	,
+	
+		"tetrahydromonapterin biosynthesis"
+	,
+	
+		"biotin biosynthesis from 8-amino-7-oxononanoate I"
+	,
+	
+		"3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate"
+	,
+	
+		"biotin biosynthesis I"
+	,
+	
+		"cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate"
+	,
+	
+		"guanylyl molybdenum cofactor biosynthesis"
+	,
+	
+		"superpathway of phenylethylamine degradation"
+	,
+	
+		"bis(guanylyl molybdenum cofactor) biosynthesis"
+	,
+	
+		"molybdopterin biosynthesis"
+	,
+	
+		"palmitate biosynthesis (type II fatty acid synthase)"
+	,
+	
+		"preQ<sub>0<\/sub> biosynthesis"
+	,
+	
+		"molybdenum cofactor biosynthesis"
+	,
+	
+		"cyclopropane fatty acid (CFA) biosynthesis"
+	,
+	
+		"fatty acid biosynthesis initiation (type II)"
+	,
+	
+		"cytidylyl molybdenum cofactor biosynthesis"
+	,
+	
+		"palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate)"
+	,
+	
+		"<i>bis<\/i>(guanylyl molybdopterin) cofactor sulfurylation"
+	,
+	
+		"<i>S<\/i>-adenosyl-L-methionine salvage I"
+	,
+	
+		"pyridoxal 5'-phosphate salvage I"
+	,
+	
+		"pyridoxal 5'-phosphate biosynthesis I"
+	,
+	
+		"L-alanine degradation I"
+	,
+	
+		"superpathway of polyamine biosynthesis I"
+	,
+	
+		"superpathway of pyridoxal 5'-phosphate biosynthesis and salvage"
+	,
+	
+		"superpathway of arginine and polyamine biosynthesis"
+	,
+	
+		"tRNA charging"
+	,
+	
+		"aminopropylcadaverine biosynthesis"
+	,
+	
+		"lipoate biosynthesis and incorporation II"
+	,
+	
+		"glycine betaine biosynthesis I (Gram-negative bacteria)"
+	,
+	
+		"lipoate salvage I"
+	,
+	
+		"UMP biosynthesis I"
+	,
+	
+		"lipoate biosynthesis and incorporation I"
+	,
+	
+		"dTDP-&beta;-L-rhamnose biosynthesis"
+	,
+	
+		"dTDP-<i>N<\/i>-acetylthomosamine biosynthesis"
+	,
+	
+		"NAD salvage pathway II (PNC IV cycle)"
+	,
+	
+		"superpathway of ornithine degradation"
+	,
+	
+		"NAD <i>de novo<\/i> biosynthesis I (from aspartate)"
+	,
+	
+		"UDP-&alpha;-D-glucose biosynthesis"
+	,
+	
+		"superpathway of <i>N<\/i>-acetylglucosamine, <i>N<\/i>-acetylmannosamine and <i>N<\/i>-acetylneuraminate degradation"
+	,
+	
+		"UDP-<i>N<\/i>-acetyl-&alpha;-D-mannosaminouronate biosynthesis"
+	,
+	
+		"NAD salvage pathway I (PNC VI cycle)"
+	,
+	
+		"UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose)"
+	,
+	
+		"ethanolamine utilization"
+	,
+	
+		"UDP-&alpha;-D-galactose biosynthesis"
+	,
+	
+		"NAD salvage pathway IV (from nicotinamide riboside)"
+	,
+	
+		"ADP-L-<i>glycero<\/i>-&beta;-D-<i>manno<\/i>-heptose biosynthesis"
+	,
+	
+		"phenylethylamine degradation I"
+	,
+	
+		"GDP-L-fucose biosynthesis I (from GDP-D-mannose)"
+	,
+	
+		"GDP-mannose biosynthesis"
+	,
+	
+		"queuosine biosynthesis I (<i>de novo<\/i>)"
+	,
+	
+		"UDP-<i>N<\/i>-acetyl-D-glucosamine biosynthesis I"
+	,
+	
+		"CMP-3-deoxy-D-<I>manno<\/I>-octulosonate biosynthesis"
+	,
+	
+		"putrescine biosynthesis III"
+	,
+	
+		"putrescine biosynthesis I"
+	,
+	
+		"spermidine biosynthesis I"
+	,
+	
+		"purine ribonucleosides degradation"
+	,
+	
+		"purine deoxyribonucleosides degradation I"
+	,
+	
+		"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"
+	,
+	
+		"pseudouridine degradation"
+	,
+	
+		"superpathway of guanine and guanosine salvage"
+	,
+	
+		"<i>S<\/i>-methyl-5'-thioadenosine degradation IV"
+	,
+	
+		"allantoin degradation IV (anaerobic)"
+	,
+	
+		"pyrimidine nucleobases salvage II"
+	,
+	
+		"superpathway of fatty acid biosynthesis I (E. coli)"
+	,
+	
+		"taurine degradation IV"
+	,
+	
+		"superpathway of branched chain amino acid biosynthesis"
+	,
+	
+		"polyisoprenoid biosynthesis (<i>E. coli<\/i>)"
+	,
+	
+		"thiosulfate disproportionation IV (rhodanese)"
+	,
+	
+		"superpathway of pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis"
+	,
+	
+		"L-arginine degradation III (arginine decarboxylase\/agmatinase pathway)"
+	,
+	
+		"superpathway of aromatic amino acid biosynthesis"
+	,
+	
+		"assimilatory sulfate reduction I"
+	,
+	
+		"superpathway of lipopolysaccharide biosynthesis"
+	,
+	
+		"L-arginine degradation II (AST pathway)"
+	,
+	
+		"allantoin degradation to glyoxylate III"
+	,
+	
+		"L-asparagine degradation I"
+	,
+	
+		"superpathway of purine deoxyribonucleosides degradation"
+	,
+	
+		"formaldehyde oxidation II (glutathione-dependent)"
+	,
+	
+		"superpathway of L-threonine metabolism"
+	,
+	
+		"superpathway of L-homoserine and L-methionine biosynthesis"
+	,
+	
+		"superpathway of guanosine nucleotides <i>de novo<\/i> biosynthesis II"
+	,
+	
+		"2-oxoglutarate decarboxylation to succinyl-CoA"
+	,
+	
+		"superpathway of hexuronide and hexuronate degradation"
+	,
+	
+		"superpathway of unsaturated fatty acids biosynthesis (<i>E. coli<\/i>)"
+	,
+	
+		"NADH to cytochrome <i>bo<\/i> oxidase electron transfer II"
+	,
+	
+		"L-arginine biosynthesis I (via L-ornithine)"
+	,
+	
+		"superpathway of pyrimidine nucleobases salvage"
+	,
+	
+		"succinate to cytochrome <i>bo<\/i> oxidase electron transfer"
+	,
+	
+		"superpathway of L-asparagine biosynthesis"
+	,
+	
+		"5-aminoimidazole ribonucleotide biosynthesis I"
+	,
+	
+		"5-aminoimidazole ribonucleotide biosynthesis II"
+	,
+	
+		"succinate to cytochrome <i>bd<\/i> oxidase electron transfer"
+	,
+	
+		"superpathway of fucose and rhamnose degradation"
+	,
+	
+		"superpathway of chorismate metabolism"
+	,
+	
+		"superpathway of L-arginine and L-ornithine degradation"
+	,
+	
+		"D-lactate to cytochrome <i>bo<\/i> oxidase electron transfer"
+	,
+	
+		"superpathway of 5-aminoimidazole ribonucleotide biosynthesis"
+	,
+	
+		"superpathway of pyrimidine deoxyribonucleotides <i>de novo<\/i> biosynthesis (<i>E. coli<\/i>)"
+	,
+	
+		"pyruvate to cytochrome <i>bd<\/i> oxidase electron transfer"
+	,
+	
+		"superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation"
+	,
+	
+		"superpathway of D-glucarate and D-galactarate degradation"
+	,
+	
+		"NADH to cytochrome <i>bo<\/i> oxidase electron transfer I"
+	,
+	
+		"aspartate superpathway"
+	,
+	
+		"superpathway of L-aspartate and L-asparagine biosynthesis"
+	,
+	
+		"glycerol-3-phosphate to cytochrome <i>bo<\/i> oxidase electron transfer"
+	,
+	
+		"superpathway of phospholipid biosynthesis I (bacteria)"
+	,
+	
+		"superpathway of pyrimidine ribonucleosides salvage"
+	,
+	
+		"NADH to cytochrome <i>bd<\/i> oxidase electron transfer II"
+	,
+	
+		"superpathway of L-serine and glycine biosynthesis I"
+	,
+	
+		"chorismate biosynthesis from 3-dehydroquinate"
+	,
+	
+		"pyruvate to cytochrome <i>bo<\/i> oxidase electron transfer"
+	,
+	
+		"superpathway of L-alanine biosynthesis"
+	,
+	
+		"superpathway of histidine, purine, and pyrimidine biosynthesis"
+	,
+	
+		"chorismate biosynthesis I"
+	,
+	
+		"NADH to cytochrome <i>bd<\/i> oxidase electron transfer I"
+	,
+	
+		"superpathway of purine nucleotides <i>de novo<\/i> biosynthesis II"
+	,
+	
+		"superpathway of glyoxylate bypass and TCA"
+	,
+	
+		"4-hydroxybenzoate biosynthesis II (bacteria)"
+	,
+	
+		"proline to cytochrome <i>bo<\/i> oxidase electron transfer"
+	,
+	
+		"superpathway of pyrimidine deoxyribonucleosides degradation"
+	,
+	
+		"superpathway of <i>S<\/i>-adenosyl-L-methionine biosynthesis"
+	,
+	
+		"superpathway of L-threonine biosynthesis"
+	,
+	
+		"L-cysteine degradation III"
+	,
+	
+		"superpathway of fatty acid biosynthesis initiation (E. coli)"
+	,
+	
+		"superpathway of acetate utilization and formation"
+	,
+	
+		"superpathway of adenosine nucleotides <i>de novo<\/i> biosynthesis II"
+	,
+	
+		"L-glutamine biosynthesis I"
+	,
+	
+		"superpathway of pyrimidine ribonucleotides <i>de novo<\/i> biosynthesis"
+	,
+	
+		"citrate degradation"
+	,
+	
+		"colanic acid building blocks biosynthesis"
+	,
+	
+		"ammonia assimilation cycle III"
+	,
+	
+		"pyruvate decarboxylation to acetyl CoA I"
+	,
+	
+		"guanosine ribonucleotides <i>de novo<\/i> biosynthesis"
+	,
+	
+		"nitrate reduction VIII (dissimilatory)"
+	,
+	
+		"2-hydroxypenta-2,4-dienoate degradation"
+	,
+	
+		"lipid A-core biosynthesis (<i>E. coli<\/i> K-12)"
+	,
+	
+		"nitrate reduction X (dissimilatory, periplasmic)"
+	,
+	
+		"D-malate degradation"
+	,
+	
+		"adenosine ribonucleotides <i>de novo<\/i> biosynthesis"
+	,
+	
+		"glycolate and glyoxylate degradation I"
+	
 ]
