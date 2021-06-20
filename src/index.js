@@ -35,12 +35,14 @@ class App extends React.Component {
     articles: [],
     articleNum: 0,
     page: 1,
+    pathways: []
   };
 
   async componentDidMount() {
     const response = await axios.get(BASE_URL + API_URL);
     const json = await response.data.results;
-    this.setState({ articles: json }, () => console.log(json));
+    this.setState({ articles: json });
+    await this.getData();
   }
   handleChange = newValue => {
     this.setState({ value: newValue });
@@ -49,6 +51,25 @@ class App extends React.Component {
   handleTagChange = e => {
     this.setState({ tag: e.target.value });
   };
+
+  async getData(){
+    fetch('pathways.json'
+    ,{
+      headers : { 
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+       }
+    }
+    )
+    .then(async (response) => { 
+      var res = await response.json();       
+      this.setState({ pathways: res});
+    }).then(() => {
+      this.state.pathways.forEach((e) => {
+        console.log(e.name);
+      })
+    })
+  }
 
   async onclick(type){
     const article = this.state.articles[this.state.articleNum];
@@ -80,7 +101,7 @@ class App extends React.Component {
       .then(async () => {
         const response = await axios.get(BASE_URL + API_URL);
         const json = await response.data.results;
-        this.setState({ articles: json, articleNum: this.state.articleNum + 1, value: [] }, window.location.reload());
+        this.setState({ articles: json, articleNum: this.state.articleNum + 1, value: [] }, this.forceUpdate());
       });
 
   };
